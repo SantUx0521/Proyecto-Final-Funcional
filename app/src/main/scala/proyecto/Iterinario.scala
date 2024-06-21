@@ -1,8 +1,4 @@
 package proyecto
-
-import scala.collection.mutable
-import proyecto.Aeropuerto
-
 class Itinerario() {
 
   // Alias for lists of airports and flights
